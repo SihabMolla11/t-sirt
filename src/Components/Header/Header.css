@@ -1,0 +1,33 @@
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+nav ul li a{
+    text-decoration:none;
+    color:#3a7cf7;
+    font-weight:700;
+}
+
+.h-6-w-6 {
+    height: 30px;
+    width: 30px;
+    color:#3a7cf7;
+}
+
+nav a{
+    text-decoration: none;
+    color:black;
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+
+nav{
+    background-color: #00800015;
+    padding:0 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

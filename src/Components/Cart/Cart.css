@@ -1,0 +1,30 @@
+.tsier{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.orange{
+    color: orange;
+}
+.green{
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+.blue{
+    color: blue;
+}
+.tomato{
+    color: tomato;
+}
+
+.none{
+    color: black;
+}
+
+.bold{
+    font-weight: 800;
+
+}
